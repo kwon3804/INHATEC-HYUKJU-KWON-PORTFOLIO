@@ -1,7 +1,7 @@
 
 
     window.silex = window.silex || {}
-    window.silex.data = {"site":{"width":937},"pages":[{"id":"page-kwon_portfoli_main","displayName":"KWON_PORTFOLI_MAIN","link":{"linkType":"LinkTypePage","href":"#!page-kwon_portfoli_main"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-project_01","displayName":"PROJECT_01","link":{"linkType":"LinkTypePage","href":"#!page-project_01"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
+    window.silex.data = {"site":{"width":937},"pages":[{"id":"page-kwon_portfoli_main","displayName":"KWON_PORTFOLI_MAIN","link":{"linkType":"LinkTypePage","href":"#!page-kwon_portfoli_main"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-project_01","displayName":"PROJECT_01","link":{"linkType":"LinkTypePage","href":"#!page-project_01"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-project_02","displayName":"PROJECT_02","link":{"linkType":"LinkTypePage","href":"#!page-project_02"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true}]}
 
         $(function() {
             /* hamburger menu */
